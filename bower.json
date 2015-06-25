@@ -1,0 +1,19 @@
+{
+  "name": "mentor-mentee-angular",
+  "version": "0.0.1",
+  "authors": [
+    "Pavlo Shenhofer <pavlo_shenhofer@epam.com>"
+  ],
+  "description": "mentor mentee SPA",
+  "main": "server.js",
+  "keywords": [
+    "angular",
+    "mentor",
+    "mentee"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "sass-bootstrap": "~3.0.2"
+  }
+}
